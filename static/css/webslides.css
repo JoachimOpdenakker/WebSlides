@@ -3182,6 +3182,16 @@ Slides - Backgrounds <section class="bg-primary">
   color: #333;
   text-shadow: none; }
 
+  .bg-meme{
+    background-image: url("/static/images/memeyes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bg-meme h1{
+    color: white;
+  }
+
 /* BG Apple Keynote*/
 .bg-apple {
   background: -webkit-gradient(linear, left top, left bottom, from(#000), color-stop(50%, #1a2028), to(#293845));
